@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonul\\source\\repos\\DemoThemeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223B2580-9866-4DA7-A0E5-EAB07D983D5A}|DemoThemeApp\\DemoThemeApp.csproj|c:\\users\\gonul\\source\\repos\\demothemeapp\\demothemeapp\\resources\\styles\\appstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223B2580-9866-4DA7-A0E5-EAB07D983D5A}|DemoThemeApp\\DemoThemeApp.csproj|solutionrelative:demothemeapp\\resources\\styles\\appstyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223B2580-9866-4DA7-A0E5-EAB07D983D5A}|DemoThemeApp\\DemoThemeApp.csproj|c:\\users\\gonul\\source\\repos\\demothemeapp\\demothemeapp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223B2580-9866-4DA7-A0E5-EAB07D983D5A}|DemoThemeApp\\DemoThemeApp.csproj|solutionrelative:demothemeapp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\gonul\\source\\repos\\DemoThemeApp\\DemoThemeApp\\MainPage.cs",
+              "RelativeDocumentMoniker": "DemoThemeApp\\MainPage.cs",
+              "ToolTip": "C:\\Users\\gonul\\source\\repos\\DemoThemeApp\\DemoThemeApp\\MainPage.cs",
+              "RelativeToolTip": "DemoThemeApp\\MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:22:19.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppStyles.cs",
+              "DocumentMoniker": "C:\\Users\\gonul\\source\\repos\\DemoThemeApp\\DemoThemeApp\\Resources\\Styles\\AppStyles.cs",
+              "RelativeDocumentMoniker": "DemoThemeApp\\Resources\\Styles\\AppStyles.cs",
+              "ToolTip": "C:\\Users\\gonul\\source\\repos\\DemoThemeApp\\DemoThemeApp\\Resources\\Styles\\AppStyles.cs",
+              "RelativeToolTip": "DemoThemeApp\\Resources\\Styles\\AppStyles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:20:25.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
